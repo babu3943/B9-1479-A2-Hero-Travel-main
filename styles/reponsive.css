@@ -33,7 +33,34 @@
     .end-heading{
         width: 335px;
     }
+    .form-section{
+        flex-direction: column;
+        gap: 50px;
+        position: relative;
+    } 
+    .newsletter {
+         width: 100%;
+         
+         margin-top: 80%;
     
+     }
+     .newsleter-pic img{
+        
+        width: 100%;
+        gap: 100px;
+     }
+     .discount{
+  
+    left: 50%;
+    top: 260%;
+     }
+     .footer-section{
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 900px;
+       }
 }
+
 
 
