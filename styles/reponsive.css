@@ -1,0 +1,39 @@
+@media screen and (max-width:600px) {
+    .header-section{
+        flex-direction: column;
+        margin-left: 50px;
+        position: sticky;
+    }
+    .items-container{
+        flex-direction: column;
+        margin-left: 50px;
+        gap: 20px;
+        position: sticky;
+    }
+    .banner-section{
+        flex-direction: column;
+        margin-top: 40px;
+}
+.text-cotainer {
+    
+    width: 100%;
+ }
+ .img-container{
+    
+    width: 100%;
+    margin-top: 20px;
+ }
+ .sub-heading{
+    
+   width: 335px;
+    }
+    .banner-body{
+        width: 335px;
+    }
+    .end-heading{
+        width: 335px;
+    }
+    
+}
+
+
