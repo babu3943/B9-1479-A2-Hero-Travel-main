@@ -216,6 +216,7 @@ line-height: normal;
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 3;
+   
    }
    .image2{
     grid-column-start: 3;
@@ -241,6 +242,40 @@ line-height: normal;
     position: relative;
 margin-top: 50px;
   }
+
+  .card-image{
+    max-width: 1250px;
+    margin: 0 auto;
+    border: 2px solid blue;
+   
+  }
+  .container{
+    position: relative;
+  }
+  .left{
+    position: absolute;
+  }
+    .card-image1{
+        width: 1170px;
+height: 500px; 
+border-radius: 16px; 
+
+
+    }
+    .card-image2{
+        width: 1170px;
+        height: 500px; 
+        border-radius: 16px; 
+        transform: rotate(180deg);
+    }
+    .card-image3{
+        width: 1170px;
+        height: 500px; 
+        border-radius: 16px; 
+    }
+    
+
+ 
  .newsletter {
     border: 2px solid salmon;
     width: 50%;
